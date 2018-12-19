@@ -25,4 +25,4 @@ def findSkeleton(file_path):
 
 
 if __name__ == "__main__":
-    findSkeleton("bit.png")
+    findSkeleton("assets/bit.png")
