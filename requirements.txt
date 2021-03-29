@@ -12,7 +12,7 @@ kiwisolver==1.0.1
 matplotlib==3.0.2
 numpy==1.15.4
 opencv-python==3.4.4.19
-Pygments==2.3.1
+Pygments==2.7.4
 pyparsing==2.3.0
 pypiwin32==223
 python-dateutil==2.7.5
